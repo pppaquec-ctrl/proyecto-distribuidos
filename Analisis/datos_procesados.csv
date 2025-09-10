@@ -1,0 +1,105 @@
+Marca temporal,Semestre,A qué ingeniería perteneces,"Las siguientes preguntas son con única opción de respuesta:
+1. Edad",2. Género,3. Utiliza los laboratorios de la Universidad,4.  ¿Con qué frecuencia utiliza los laboratorios de la universidad por semestre?,5. ¿Cuáles son las actividades que se realizan con mayor frecuencia en los laboratorios? (Selecciona dos o más):,6. ¿Ha presentado dificultades para acceder a una sala de laboratorio debido a la capacidad máxima? ,7. ¿Ha presentado dificultades para acceder a una sala de laboratorio debido a la falta de disponibilidad?,"8. ¿Cuándo realiza prácticas de laboratorio, tiene acceso a una visualización gráfica que le muestra la disponibilidad de las salas de laboratorio para agendarlas?",9. ¿Considera que sería beneficioso contar con un sistema web que permita reservar salas de laboratorio en tiempo real para mejorar la experiencia como estudiante?,Genero,UsaLab,Frecuencia,DificultadCapacidad,DificultadDisponibilidad,VisualizacionGrafica,SistemaReservaBeneficioso
+2024/05/15 5:15:37 p. m. GMT-5,0.0,25,,Femenino,Si,1 - 2 veces,Pruebas de software/simulaciones,Si,No,No,Muy de acuerdo,0,1,0,1,0,0,1
+2024/05/18 8:09:33 a. m. GMT-5,0.0,20,,Maculino,Si,1 - 2 veces,Experimentos prácticos,Si,No,Si,Muy en desacuerdo,1,1,0,1,0,1,2
+2024/05/18 8:09:54 a. m. GMT-5,0.0,26,,Maculino,No,Nunca,,No,No,No,Neutral,1,0,4,0,0,0,3
+2024/05/18 8:10:02 a. m. GMT-5,0.0,21,,Maculino,Si,Más de 10 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,Si,No,Muy de acuerdo,1,1,3,0,1,0,1
+2024/05/18 8:26:41 a. m. GMT-5,0.0,20,,Maculino,No,1 - 2 veces,Experimentos prácticos,Si,Si,No,Neutral,1,0,0,1,1,0,3
+2024/05/18 10:06:55 a. m. GMT-5,7.0,24,,Maculino,Si,Más de 10 veces,Clases y prácticas ,No,No,No,Muy de acuerdo,1,1,3,0,0,0,1
+2024/05/18 10:33:24 a. m. GMT-5,5.0,19,,Maculino,Si,1 - 2 veces,Experimentos prácticos,Si,Si,No,Muy de acuerdo,1,1,0,1,1,0,1
+2024/05/18 10:47:57 a. m. GMT-5,5.0,20,,Maculino,Si,1 - 2 veces,Experimentos prácticos,Si,No,No,Muy de acuerdo,1,1,0,1,0,0,1
+2024/05/18 10:50:04 a. m. GMT-5,7.0,21,,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones,No,No,Si,Muy de acuerdo,1,1,1,0,0,1,1
+2024/05/18 11:16:10 a. m. GMT-5,9.0,21,,Maculino,Si,Más de 10 veces,Experimentos prácticos,No,No,No,Muy de acuerdo,1,1,3,0,0,0,1
+2024/05/18 11:25:02 a. m. GMT-5,5.0,19,,Maculino,No,Nunca,,Si,No,No,Neutral,1,0,4,1,0,0,3
+2024/05/18 2:07:24 p. m. GMT-5,9.0,27,,Maculino,Si,1 - 2 veces,Trabajo en proyectos grupales,No,No,No,Neutral,1,1,0,0,0,0,3
+2024/05/20 11:29:42 a. m. GMT-5,5.0,21,,Maculino,Si,Más de 10 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,Si,No,Muy de acuerdo,1,1,3,0,1,0,1
+2024/05/20 11:29:47 a. m. GMT-5,7.0,19,,Maculino,Si,3 - 5 veces,Experimentos prácticos;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,1,1,1,1,1,0,1
+2024/05/20 11:29:53 a. m. GMT-5,5.0,18,,Maculino,Si,Más de 10 veces,Experimentos prácticos;Trabajo en proyectos grupales,No,Si,No,Muy de acuerdo,1,1,3,0,1,0,1
+2024/05/20 11:30:07 a. m. GMT-5,8.0,23,,Maculino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones,No,No,No,Muy de acuerdo,1,1,1,0,0,0,1
+2024/05/20 11:30:10 a. m. GMT-5,9.0,21,,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Investigación académica,No,No,Si,Muy de acuerdo,1,1,1,0,0,1,1
+2024/05/20 11:30:33 a. m. GMT-5,5.0,21,,Maculino,Si,5 - 10 veces,Trabajo en proyectos grupales,No,No,No,Neutral,1,1,2,0,0,0,3
+2024/05/20 11:31:09 a. m. GMT-5,7.0,21,,Maculino,Si,5 - 10 veces,Experimentos prácticos,Si,No,No,Muy de acuerdo,1,1,2,1,0,0,1
+2024/05/20 11:32:33 a. m. GMT-5,5.0,20,,Maculino,Si,Más de 10 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales;Investigación académica,No,Si,No,Muy de acuerdo,1,1,3,0,1,0,1
+2024/05/20 11:33:20 a. m. GMT-5,8.0,22,,Femenino,Si,1 - 2 veces,Trabajo en proyectos grupales,No,Si,No,Neutral,0,1,0,0,1,0,3
+2024/05/20 11:34:40 a. m. GMT-5,7.0,20,,Maculino,Si,5 - 10 veces,Investigación académica,No,No,Si,Muy de acuerdo,1,1,2,0,0,1,1
+2024/05/20 11:35:22 a. m. GMT-5,6.0,20,,Maculino,Si,Más de 10 veces,Experimentos prácticos;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,1,1,3,1,1,0,1
+2024/05/20 11:37:27 a. m. GMT-5,5.0,19,,Femenino,Si,Más de 10 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,Si,No,Muy de acuerdo,0,1,3,0,1,0,1
+2024/05/20 11:46:36 a. m. GMT-5,6.0,32,,Maculino,Si,5 - 10 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,No,Muy de acuerdo,1,1,2,0,0,0,1
+2024/05/20 12:06:52 p. m. GMT-5,6.0,22,,Maculino,Si,Más de 10 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales;Investigación académica,Si,Si,Si,Neutral,1,1,3,1,1,1,3
+2024/05/20 1:22:33 p. m. GMT-5,4.0,21,,Maculino,Si,3 - 5 veces,Experimentos prácticos,Si,Si,Si,Muy en desacuerdo,1,1,1,1,1,1,2
+2024/05/20 1:38:34 p. m. GMT-5,6.0,20,,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,No,No,No,Muy en desacuerdo,1,1,0,0,0,0,2
+2024/05/21 10:59:30 a. m. GMT-5,6.0,20,,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,Si,Si,No,Muy de acuerdo,1,1,0,1,1,0,1
+2024/05/21 11:01:15 a. m. GMT-5,9.0,29,,Maculino,No,Nunca,Ningúno,No,No,No,Muy de acuerdo,1,0,4,0,0,0,1
+2024/05/21 11:01:57 a. m. GMT-5,10.0,23,,Maculino,No,1 - 2 veces,Pruebas de software/simulaciones,No,Si,No,Muy de acuerdo,1,0,0,0,1,0,1
+2024/05/21 11:11:37 a. m. GMT-5,0.0,23,,,Si,1 - 2 veces,Pruebas de software/simulaciones,No,No,No,Muy de acuerdo,2,1,0,0,0,0,1
+2024/05/21 11:16:09 a. m. GMT-5,0.0,23,,Maculino,No,Nunca,Experimentos prácticos;Pruebas de software/simulaciones,No,No,No,Muy de acuerdo,1,0,4,0,0,0,1
+2024/05/21 11:17:06 a. m. GMT-5,0.0,23,,Maculino,No,Nunca,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,1,0,4,1,1,0,1
+2024/05/21 11:25:29 a. m. GMT-5,0.0,25,,Maculino,No,Nunca,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,1,0,4,1,1,0,1
+2024/05/21 11:27:24 a. m. GMT-5,0.0,24,,Maculino,Si,1 - 2 veces,Trabajo en proyectos grupales;Investigación académica,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/21 11:29:45 a. m. GMT-5,10.0,24,,Femenino,No,1 - 2 veces,Experimentos prácticos,Si,Si,Si,Muy de acuerdo,0,0,0,1,1,1,1
+2024/05/21 11:30:11 a. m. GMT-5,0.0,23,,Maculino,No,Nunca,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,No,Muy de acuerdo,1,0,4,0,0,0,1
+2024/05/21 11:33:55 a. m. GMT-5,9.0,22,,Maculino,Si,1 - 2 veces,Experimentos prácticos;Pruebas de software/simulaciones,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/21 11:41:13 a. m. GMT-5,9.0,22,,Femenino,Si,3 - 5 veces,Experimentos prácticos,No,Si,No,Muy de acuerdo,0,1,1,0,1,0,1
+2024/05/21 11:42:01 a. m. GMT-5,0.0,24,,Femenino,Si,1 - 2 veces,Investigación académica;Servicios ,Si,Si,No,Muy en desacuerdo,0,1,0,1,1,0,2
+2024/05/21 11:51:36 a. m. GMT-5,0.0,23,,Maculino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,No,Muy de acuerdo,1,1,1,0,0,0,1
+2024/05/21 11:54:06 a. m. GMT-5,10.0,28,,Femenino,No,1 - 2 veces,Pruebas de software/simulaciones,Si,Si,No,Muy de acuerdo,0,0,0,1,1,0,1
+2024/05/21 12:00:12 p. m. GMT-5,8.0,27,,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,No,No,No,Muy en desacuerdo,1,1,0,0,0,0,2
+2024/05/21 12:06:33 p. m. GMT-5,7.0,21,,Maculino,Si,1 - 2 veces,Experimentos prácticos,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/21 12:12:51 p. m. GMT-5,0.0,24,,Maculino,No,Nunca,Experimentos prácticos,Si,Si,No,Muy de acuerdo,1,0,4,1,1,0,1
+2024/05/21 12:21:53 p. m. GMT-5,0.0,24,,Femenino,No,Nunca,Ninguna,No,No,No,Muy de acuerdo,0,0,4,0,0,0,1
+2024/05/21 12:22:03 p. m. GMT-5,10.0,23,,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones,Si,Si,No,Muy de acuerdo,1,1,1,1,1,0,1
+2024/05/21 1:21:42 p. m. GMT-5,0.0,23,,Femenino,No,1 - 2 veces,Experimentos prácticos;Pruebas de software/simulaciones,No,Si,No,Neutral,0,0,0,0,1,0,3
+2024/05/21 2:01:23 p. m. GMT-5,0.0,30,,Maculino,No,Nunca,Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,No,No,Muy de acuerdo,1,0,4,1,0,0,1
+2024/05/21 2:27:20 p. m. GMT-5,4.0,19,,Femenino,Si,1 - 2 veces,Experimentos prácticos,Si,Si,No,Muy de acuerdo,0,1,0,1,1,0,1
+2024/05/21 2:33:31 p. m. GMT-5,10.0,24,,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,Si,Si,No,Muy en desacuerdo,1,1,0,1,1,0,2
+2024/05/21 2:56:12 p. m. GMT-5,9.0,23,,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones,No,Si,No,Muy de acuerdo,1,1,1,0,1,0,1
+2024/05/21 4:14:20 p. m. GMT-5,0.0,21,,Femenino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,No,Muy de acuerdo,0,1,1,0,0,0,1
+2024/05/21 7:43:11 p. m. GMT-5,10.0,ingeniería de sistemas,24.0,Maculino,Si,1 - 2 veces,Investigación académica,No,No,No,Neutral,1,1,0,0,0,0,3
+2024/05/21 8:22:41 p. m. GMT-5,10.0,ingeniería de sistemas,23.0,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/21 8:28:43 p. m. GMT-5,8.0,ingeniería de sistemas,25.0,Maculino,No,1 - 2 veces,Trabajo en proyectos grupales,Si,No,No,Muy de acuerdo,1,0,0,1,0,0,1
+2024/05/21 9:43:32 p. m. GMT-5,4.0,ingeniería industrial,20.0,Femenino,Si,3 - 5 veces,Experimentos prácticos;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,0,1,1,1,1,0,1
+2024/05/21 9:44:18 p. m. GMT-5,4.0,ingeniería industrial,27.0,Femenino,Si,1 - 2 veces,Experimentos prácticos,No,No,No,Muy de acuerdo,0,1,0,0,0,0,1
+2024/05/22 7:18:06 p. m. GMT-5,4.0,ingeniería de sistemas,20.0,Femenino,No,1 - 2 veces,Experimentos prácticos,Si,Si,No,Neutral,0,0,0,1,1,0,3
+2024/05/22 7:41:33 p. m. GMT-5,3.0,ingeniería de sistemas,20.0,Maculino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,Si,Muy de acuerdo,1,1,1,0,0,1,1
+2024/05/22 7:45:36 p. m. GMT-5,4.0,ingeniería de sistemas,23.0,Maculino,No,1 - 2 veces,Experimentos prácticos,Si,Si,Si,Muy de acuerdo,1,0,0,1,1,1,1
+2024/05/22 8:33:29 p. m. GMT-5,5.0,ingeniería de sistemas,26.0,Maculino,Si,1 - 2 veces,Experimentos prácticos,No,No,Si,Muy de acuerdo,1,1,0,0,0,1,1
+2024/05/22 8:42:56 p. m. GMT-5,5.0,ingeniería mecatronica,19.0,Femenino,Si,1 - 2 veces,Experimentos prácticos,No,Si,Si,Neutral,0,1,0,0,1,1,3
+2024/05/22 8:43:42 p. m. GMT-5,4.0,ingeniería de sistemas,26.0,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,No,No,Si,Muy de acuerdo,1,1,0,0,0,1,1
+2024/05/22 8:44:47 p. m. GMT-5,4.0,ingeniería de sistemas,20.0,Maculino,Si,3 - 5 veces,Experimentos prácticos;Trabajo en proyectos grupales,No,Si,No,Muy de acuerdo,1,1,1,0,1,0,1
+2024/05/22 8:47:02 p. m. GMT-5,3.0,ingeniería industrial,20.0,Femenino,Si,1 - 2 veces,Experimentos prácticos;Trabajo en proyectos grupales,No,No,Si,Muy en desacuerdo,0,1,0,0,0,1,2
+2024/05/22 8:47:53 p. m. GMT-5,3.0,ingeniería industrial,20.0,Femenino,Si,1 - 2 veces,Experimentos prácticos,No,Si,No,Neutral,0,1,0,0,1,0,3
+2024/05/22 8:52:38 p. m. GMT-5,5.0,ingeniería de sistemas,21.0,Maculino,Si,1 - 2 veces,Experimentos prácticos,Si,Si,Si,En desacuerdo,1,1,0,1,1,1,0
+2024/05/22 8:54:18 p. m. GMT-5,9.0,ingeniería mecatronica,21.0,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,Si,Muy de acuerdo,1,1,1,0,0,1,1
+2024/05/22 9:04:03 p. m. GMT-5,8.0,ingeniería de sistemas,19.0,Maculino,Si,1 - 2 veces,Experimentos prácticos,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/22 9:04:29 p. m. GMT-5,7.0,ingeniería de sistemas,21.0,Maculino,No,Nunca,Recibir clases,No,No,No,Neutral,1,0,4,0,0,0,3
+2024/05/22 9:04:56 p. m. GMT-5,7.0,ingeniería de sistemas,20.0,Maculino,Si,1 - 2 veces,,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/22 9:08:36 p. m. GMT-5,3.0,ingeniería ambiental,19.0,Femenino,Si,3 - 5 veces,Experimentos prácticos;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,0,1,1,1,1,0,1
+2024/05/22 9:21:00 p. m. GMT-5,2.0,ingeniería ambiental,21.0,Maculino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales;Investigación académica,Si,Si,No,Muy de acuerdo,1,1,1,1,1,0,1
+2024/05/22 10:58:37 p. m. GMT-5,4.0,ingeniería mecatronica,20.0,Femenino,Si,3 - 5 veces,Experimentos prácticos,No,Si,No,Muy de acuerdo,0,1,1,0,1,0,1
+2024/05/23 6:09:18 a. m. GMT-5,2.0,ingeniería de energía renovables,18.0,Maculino,Si,3 - 5 veces,Experimentos prácticos,No,No,Si,Muy de acuerdo,1,1,1,0,0,1,1
+2024/05/23 8:13:39 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,1 - 2 veces,Pruebas de software/simulaciones,Si,No,Si,Neutral,1,1,0,1,0,1,3
+2024/05/23 8:14:14 a. m. GMT-5,3.0,ingeniería de sistemas,17.0,Maculino,Si,Más de 10 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,Si,Muy de acuerdo,1,1,3,1,1,1,1
+2024/05/23 8:14:55 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales;Investigación académica,Si,Si,Si,Neutral,1,1,1,1,1,1,3
+2024/05/23 8:14:55 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,No,1 - 2 veces,Trabajo en proyectos grupales,No,No,No,Neutral,1,0,0,0,0,0,3
+2024/05/23 8:14:58 a. m. GMT-5,3.0,ingeniería de sistemas,19.0,Femenino,Si,3 - 5 veces,Pruebas de software/simulaciones,No,Si,No,Muy de acuerdo,0,1,1,0,1,0,1
+2024/05/23 8:15:33 a. m. GMT-5,3.0,ingeniería de sistemas,19.0,Femenino,No,Nunca,Investigación académica,No,No,Si,Muy de acuerdo,0,0,4,0,0,1,1
+2024/05/23 8:15:50 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,1 - 2 veces,Experimentos prácticos,No,No,No,Muy de acuerdo,1,1,0,0,0,0,1
+2024/05/23 8:15:59 a. m. GMT-5,3.0,ingeniería de sistemas,19.0,Maculino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,No,Muy de acuerdo,1,1,1,0,0,0,1
+2024/05/23 8:16:03 a. m. GMT-5,3.0,ingeniería de sistemas,17.0,Femenino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,0,1,1,1,1,0,1
+2024/05/23 8:16:09 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,1 - 2 veces,Experimentos prácticos,No,Si,No,Neutral,1,1,0,0,1,0,3
+2024/05/23 8:16:24 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,Si,Muy de acuerdo,1,1,1,1,1,1,1
+2024/05/23 8:16:38 a. m. GMT-5,3.0,ingeniería de sistemas,19.0,Maculino,Si,5 - 10 veces,Trabajo en proyectos grupales,Si,No,No,Neutral,1,1,2,1,0,0,3
+2024/05/23 8:17:13 a. m. GMT-5,3.0,ingeniería de sistemas,19.0,Femenino,Si,1 - 2 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,Si,Si,Muy en desacuerdo,0,1,0,0,1,1,2
+2024/05/23 8:17:14 a. m. GMT-5,3.0,ingeniería de sistemas,26.0,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,No,No,Muy de acuerdo,1,1,1,1,0,0,1
+2024/05/23 8:17:16 a. m. GMT-5,3.0,ingeniería de sistemas,19.0,Maculino,Si,1 - 2 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales;Investigación académica,No,No,No,Neutral,1,1,0,0,0,0,3
+2024/05/23 8:17:16 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,1 - 2 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,No,Neutral,1,1,0,1,1,0,3
+2024/05/23 8:17:44 a. m. GMT-5,3.0,ingeniería de sistemas,17.0,Maculino,Si,1 - 2 veces,Experimentos prácticos;Trabajo en proyectos grupales,No,Si,No,Muy de acuerdo,1,1,0,0,1,0,1
+2024/05/23 8:17:59 a. m. GMT-5,3.0,ingeniería de sistemas,20.0,Maculino,Si,Más de 10 veces,Trabajo en proyectos grupales,No,No,No,Neutral,1,1,3,0,0,0,3
+2024/05/23 8:18:37 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,1 - 2 veces,Experimentos prácticos;Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,Si,No,Muy de acuerdo,1,1,0,1,1,0,1
+2024/05/23 8:19:58 a. m. GMT-5,3.0,ingeniería de sistemas,18.0,Maculino,Si,3 - 5 veces,Trabajo en proyectos grupales,No,Si,Si,Neutral,1,1,1,0,1,1,3
+2024/05/23 8:20:00 a. m. GMT-5,3.0,ingeniería de sistemas,25.0,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,No,No,Si,Muy de acuerdo,1,1,1,0,0,1,1
+2024/05/23 9:52:16 a. m. GMT-5,3.0,ingeniería de sistemas,26.0,Maculino,Si,3 - 5 veces,Pruebas de software/simulaciones;Trabajo en proyectos grupales,Si,No,No,Muy de acuerdo,1,1,1,1,0,0,1
+2024/05/23 11:35:41 a. m. GMT-5,4.0,ingeniería de sistemas,29.0,Maculino,No,Nunca,Nunca se los nunca ,Si,Si,No,Muy de acuerdo,1,0,4,1,1,0,1
+2024/05/23 1:39:24 p. m. GMT-5,4.0,ingeniería de sistemas,19.0,Maculino,Si,3 - 5 veces,Experimentos prácticos,No,No,No,Muy de acuerdo,1,1,1,0,0,0,1
+2024/05/23 1:43:52 p. m. GMT-5,4.0,ingeniería de sistemas,19.0,Femenino,Si,3 - 5 veces,Experimentos prácticos;Pruebas de software/simulaciones,No,No,No,Neutral,0,1,1,0,0,0,3
+2024/05/23 8:40:51 p. m. GMT-5,5.0,ingeniería ambiental,19.0,Femenino,Si,3 - 5 veces,Experimentos prácticos;Trabajo en proyectos grupales,Si,No,No,Muy de acuerdo,0,1,1,1,0,0,1

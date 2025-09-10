@@ -1,0 +1,84 @@
+# 📋 Encuesta: Agendamiento de Salas de Laboratorio
+
+### 🎓 Nota para estudiantes
+Estamos llevando a cabo esta encuesta para comprender mejor las necesidades de los estudiantes respecto a la gestión de salas de laboratorios en nuestra universidad.  
+Tu participación es **crucial** para mejorar nuestros servicios y facilitar tu experiencia académica.  
+
+👉 Por favor, responde honestamente. ¡Gracias por tu tiempo!  
+
+---
+
+## 📑 Preguntas de la encuesta
+
+1. ¿En qué **semestre** te encuentras?
+2. ¿A qué **ingeniería** perteneces?
+3. Edad
+4. Género
+5. ¿Utilizas los laboratorios de la universidad? (Sí/No)
+6. ¿Con qué **frecuencia** utilizas los laboratorios por semestre?  
+   _(Nunca / 1-2 veces / 3-5 veces / Más de 5 veces)_
+7. ¿Qué **actividades realizas con mayor frecuencia** en los laboratorios?  
+   _(Prácticas académicas / Investigación / Proyectos personales / Otro)_
+8. ¿Has tenido **dificultades de acceso** a una sala de laboratorio por capacidad máxima? (Sí/No)
+9. ¿Has tenido **dificultades de acceso** a una sala por falta de disponibilidad? (Sí/No)
+10. ¿Cuando realizas prácticas de laboratorio tienes acceso a una **visualización gráfica** que muestre la disponibilidad de salas? (Sí/No)
+11. ¿Consideras que sería **beneficioso contar con un sistema web** que permita reservar salas en tiempo real? (Sí/No)
+
+##Script en Python utilizado  para analizar las respuestas
+# 📊 Análisis de la Encuesta de Agendamiento de Salas
+import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+
+# Ruta del archivo CSV (respuestas de la encuesta)
+
+file_path = (
+    "agendamiento-sala/estudiante/"
+    "EncuestaAgendamientoSalas.csv"
+)
+
+# Configuración de pandas para ver más datos en pantalla
+pd.set_option("display.max_columns", None)
+pd.set_option("display.max_rows", 50)
+pd.set_option("display.expand_frame_repr", False)
+
+try:
+    # Cargar el archivo CSV
+    df = pd.read_csv(file_path)
+    print("✅ Datos cargados correctamente:")
+    print(df.head())
+except FileNotFoundError:
+    print("❌ El archivo no se encontró. Verifica la ruta o el nombre.")
+except Exception as e:
+    print(f"⚠️ Ocurrió un error: {e}")
+
+# Codificación de variables categóricas
+label_encoders = {}
+columnas_codificar = {
+    "4. Género": "Genero",
+    "5. ¿Utilizas los laboratorios de la universidad?":
+        "UsaLab",
+    "6. ¿Con qué frecuencia utilizas los laboratorios "
+    "por semestre?": "Frecuencia",
+    "8. ¿Dificultades por capacidad máxima?":
+        "CapacidadMax",
+    "9. ¿Dificultades por falta de disponibilidad?":
+        "Disponibilidad",
+    "10. ¿Acceso a visualización de salas?":
+        "Visualizacion",
+    "11. ¿Beneficioso sistema web de reservas?":
+        "SistemaWeb",
+}
+
+for col, new_col in columnas_codificar.items():
+    if col in df.columns:
+        le = LabelEncoder()
+        df[new_col] = le.fit_transform(df[col])
+        label_encoders[new_col] = le
+
+# Mostrar los datos codificados
+print("\n✅ Variables categóricas codificadas:")
+print(df[list(columnas_codificar.values())].head())
+
+# Estadísticas rápidas
+print("\n📊 Estadísticas descriptivas:")
+print(df.describe(include="all"))

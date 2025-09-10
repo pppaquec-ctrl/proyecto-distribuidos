@@ -1,4 +1,5 @@
-<img width="512" height="512" alt="desperdicio-de-alimentos" src="https://github.com/user-attachments/assets/655a75d7-4a9b-45fa-87f6-d64c906062e7" />
+<img width="64" height="64" alt="desperdicio-de-alimentos (1)" src="https://github.com/user-attachments/assets/739eda27-6a22-4bd9-a083-55e5d1d3bf22" />
+
 # proyecto-distribuidos
 
 A nivel nacional se derrochan alrededor de 9,76 millones de toneladas de alimentos al año, lo que equivale al 34 % de la producción nacional, mientras más del 54 % de la población vive en inseguridad alimentaria.
